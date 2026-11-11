@@ -1,0 +1,2 @@
+# The-act-of-being-active-in-the-embedding-space-A-complementary-active-learning-
+This repository contains a sample of the code used for the complementary active learning based on contextualized representations for offensive language detection. It includes only SGD classifier with the link of all datasets used for reproducing the results reported in the original paper. The whole code will be available soon.
